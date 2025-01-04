@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+![Conway's Game of Life](https://github.com/dyao13/BrawlStars/blob/main/conways.png)
+
 Creates a GUI application for Conway's Game of Life. Functionality includes:
 
 1. Import RLE. Type *.rle file name into Input File Name and press Import RLE. Then press Load Matrix.
