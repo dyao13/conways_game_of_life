@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-![Conway's Game of Life](https://github.com/dyao13/BrawlStars/blob/main/conways.png)
+![Conway's Game of Life](https://github.com/dyao13/conways_game_of_life/blob/main/conways.png)
 
 Creates a GUI application for Conway's Game of Life. Functionality includes:
 
