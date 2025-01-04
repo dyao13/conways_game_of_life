@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-Creates a GUi application for Conway's Game of Life. Functionality includes:
+Creates a GUI application for Conway's Game of Life. Functionality includes:
 
 1. Import RLE. Type *.rle file name into Input File Name and press Import RLE. Then press Load Matrix.
 2. Generate Random soup. Press Generate Random and then press Load Matrix.
